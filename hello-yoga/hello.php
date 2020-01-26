@@ -6,7 +6,7 @@
 /*
 Plugin Name: Hello Yoga
 Plugin URI: 
-Description: 
+Description: Similar to the WordPress Plugin Hello Dolly, but with Baron Baptiste yoga quotes
 Author: James Hearn
 Version: 1.0
 Author URI: http://jameshearn.com/
